@@ -1,1 +1,1 @@
-# image-procsessing
+# image reading and processing
